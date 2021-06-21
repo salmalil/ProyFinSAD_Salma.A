@@ -82,6 +82,10 @@
 	<Item Name="DAQASSIST" Type="Folder">
 		<Item Name="DAQANALOG_1.vi" Type="VI" URL="../DAQANALOG_1.vi"/>
 		<Item Name="DAQANALOG_HELP.vi" Type="VI" URL="../DAQANALOG_HELP.vi"/>
+		<Item Name="DAQDIGITAL.vi" Type="VI" URL="../DAQDIGITAL.vi"/>
+		<Item Name="CONVERTERU32.vi" Type="VI" URL="../CONVERTERU32.vi"/>
+		<Item Name="SETTINGSLINES.vi" Type="VI" URL="../SETTINGSLINES.vi"/>
+		<Item Name="DIGITALDAQ.vi" Type="VI" URL="../DIGITALDAQ.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
