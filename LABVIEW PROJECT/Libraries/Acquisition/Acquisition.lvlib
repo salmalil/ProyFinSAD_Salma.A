@@ -18,6 +18,8 @@
 				<Item Name="Show Panel Argument--cluster.ctl" Type="VI" URL="../Show Panel Argument--cluster.ctl"/>
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
+				<Item Name="Config de Analogico Argument--cluster.ctl" Type="VI" URL="../Config de Analogico Argument--cluster.ctl"/>
+				<Item Name="Digital Parametros Argument--cluster.ctl" Type="VI" URL="../Digital Parametros Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -31,6 +33,8 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
+			<Item Name="Config de Analogico.vi" Type="VI" URL="../Config de Analogico.vi"/>
+			<Item Name="Digital Parametros.vi" Type="VI" URL="../Digital Parametros.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -88,4 +92,5 @@
 		<Item Name="DIGITALDAQ.vi" Type="VI" URL="../DIGITALDAQ.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="CONTROLS.lvlib" Type="Library" URL="../CONTROLS.lvlib"/>
 </Library>
