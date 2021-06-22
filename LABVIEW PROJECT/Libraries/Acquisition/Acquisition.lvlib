@@ -18,8 +18,13 @@
 				<Item Name="Show Panel Argument--cluster.ctl" Type="VI" URL="../Show Panel Argument--cluster.ctl"/>
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
-				<Item Name="Config de Analogico Argument--cluster.ctl" Type="VI" URL="../Config de Analogico Argument--cluster.ctl"/>
-				<Item Name="Digital Parametros Argument--cluster.ctl" Type="VI" URL="../Digital Parametros Argument--cluster.ctl"/>
+				<Item Name="Start Acquisition Argument--cluster.ctl" Type="VI" URL="../Start Acquisition Argument--cluster.ctl"/>
+				<Item Name="Configurar tarea Analogico Argument--cluster.ctl" Type="VI" URL="../Configurar tarea Analogico Argument--cluster.ctl"/>
+				<Item Name="Configurar Tarea Digital Argument--cluster.ctl" Type="VI" URL="../Configurar Tarea Digital Argument--cluster.ctl"/>
+				<Item Name="Wake up Helper loop Analogico Argument--cluster.ctl" Type="VI" URL="../Wake up Helper loop Analogico Argument--cluster.ctl"/>
+				<Item Name="Wake up HL digital Argument--cluster.ctl" Type="VI" URL="../Wake up HL digital Argument--cluster.ctl"/>
+				<Item Name="STOP HL ANALOGICO Argument--cluster.ctl" Type="VI" URL="../STOP HL ANALOGICO Argument--cluster.ctl"/>
+				<Item Name="STOP HL DIGITAL Argument--cluster.ctl" Type="VI" URL="../STOP HL DIGITAL Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -33,8 +38,13 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
-			<Item Name="Config de Analogico.vi" Type="VI" URL="../Config de Analogico.vi"/>
-			<Item Name="Digital Parametros.vi" Type="VI" URL="../Digital Parametros.vi"/>
+			<Item Name="Start Acquisition.vi" Type="VI" URL="../Start Acquisition.vi"/>
+			<Item Name="Configurar tarea Analogico.vi" Type="VI" URL="../Configurar tarea Analogico.vi"/>
+			<Item Name="Configurar Tarea Digital.vi" Type="VI" URL="../Configurar Tarea Digital.vi"/>
+			<Item Name="Wake up Helper loop Analogico.vi" Type="VI" URL="../Wake up Helper loop Analogico.vi"/>
+			<Item Name="Wake up HL digital.vi" Type="VI" URL="../Wake up HL digital.vi"/>
+			<Item Name="STOP HL ANALOGICO.vi" Type="VI" URL="../STOP HL ANALOGICO.vi"/>
+			<Item Name="STOP HL DIGITAL.vi" Type="VI" URL="../STOP HL DIGITAL.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
