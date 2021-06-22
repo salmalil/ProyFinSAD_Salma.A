@@ -26,6 +26,7 @@
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
 				<Item Name="Task to do Argument--cluster.ctl" Type="VI" URL="../Task to do Argument--cluster.ctl"/>
+				<Item Name="Nombre task Argument--cluster.ctl" Type="VI" URL="../Nombre task Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -53,6 +54,7 @@
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
 		<Item Name="Task to do.vi" Type="VI" URL="../Task to do.vi"/>
+		<Item Name="Nombre task.vi" Type="VI" URL="../Nombre task.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -96,4 +98,5 @@
 		<Item Name="erase.vi" Type="VI" URL="../erase.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="TDMS.vi" Type="VI" URL="../TDMS.vi"/>
 </Library>

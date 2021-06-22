@@ -30,6 +30,9 @@
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
+				<Item Name="Data Analog aquired Argument--cluster.ctl" Type="VI" URL="../Data Analog aquired Argument--cluster.ctl"/>
+				<Item Name="DIGITAL DATA Argument--cluster.ctl" Type="VI" URL="../DIGITAL DATA Argument--cluster.ctl"/>
+				<Item Name="TIPO ADQUI Argument--cluster.ctl" Type="VI" URL="../TIPO ADQUI Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -61,6 +64,9 @@
 		<Item Name="Error Reported.vi" Type="VI" URL="../Error Reported.vi"/>
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
+		<Item Name="Data Analog aquired.vi" Type="VI" URL="../Data Analog aquired.vi"/>
+		<Item Name="DIGITAL DATA.vi" Type="VI" URL="../DIGITAL DATA.vi"/>
+		<Item Name="TIPO ADQUI.vi" Type="VI" URL="../TIPO ADQUI.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
